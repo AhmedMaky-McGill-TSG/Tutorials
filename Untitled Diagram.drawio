@@ -150,7 +150,7 @@
         <mxCell id="6GBsT0NPLMtEC06LWO48-41" value="Record MRD" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-60.62" y="360" width="290.62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6GBsT0NPLMtEC06LWO48-43" value="number of output samples =(Ns Nr)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0;fontSize=15;dashed=1;" vertex="1" parent="1">
+        <mxCell id="6GBsT0NPLMtEC06LWO48-43" value="output samples count =(Ns Nr)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0;fontSize=15;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="400" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6GBsT0NPLMtEC06LWO48-44" value="Structure analysis" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;fontStyle=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;horizontal=1;" vertex="1" parent="1">
