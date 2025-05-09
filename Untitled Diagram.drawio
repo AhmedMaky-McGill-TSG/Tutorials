@@ -167,7 +167,7 @@
         <mxCell id="6GBsT0NPLMtEC06LWO48-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6GBsT0NPLMtEC06LWO48-43" target="6GBsT0NPLMtEC06LWO48-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6GBsT0NPLMtEC06LWO48-43" value="output samples count =(Ns Nr)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0;fontSize=15;dashed=1;" vertex="1" parent="1">
+        <mxCell id="6GBsT0NPLMtEC06LWO48-43" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;samples count = N&lt;sub&gt;s&lt;/sub&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;×&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;N&lt;sub&gt;r&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0;fontSize=15;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="390" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6GBsT0NPLMtEC06LWO48-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6GBsT0NPLMtEC06LWO48-44" target="6GBsT0NPLMtEC06LWO48-51">
