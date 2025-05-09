@@ -98,13 +98,8 @@
         <mxCell id="Z3D-ht7UoVDYWebcYSl6-4" value="Downburst Model" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-590" y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6GBsT0NPLMtEC06LWO48-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3D-ht7UoVDYWebcYSl6-5" target="AfUsvGwQXnNMMPrtIq6C-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-530" y="210" />
-              <mxPoint x="-536" y="210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="6GBsT0NPLMtEC06LWO48-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3D-ht7UoVDYWebcYSl6-5" target="AfUsvGwQXnNMMPrtIq6C-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z3D-ht7UoVDYWebcYSl6-5" value="Radial and vertical profiles&amp;nbsp;&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0;fontSize=15;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-590" y="120" width="240" height="40" as="geometry" />
